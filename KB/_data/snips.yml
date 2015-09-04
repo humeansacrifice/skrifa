@@ -1,0 +1,5 @@
+#This file contains reusable snippets, called by {{site.data.snips.NAME}}
+# add snippets by naming and defining, separated by a colon
+
+copyright_line: Copyright 2015
+pro_ult: Pro and Ultimate Editions

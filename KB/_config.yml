@@ -1,0 +1,16 @@
+# Site settings
+title: Skrifa KB
+site-title: Skrifa KB
+description: Skrifa Documentation
+baseurl: "/kb" # the subpath of your site, e.g. /blog/
+url: "http://skrifa.io" # the base hostname & protocol for your site
+twitter_username: humeansacrifice
+github_username:  humeansacrifice
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+
+#category bs
+
+categories: [dogs, cats, haints]
