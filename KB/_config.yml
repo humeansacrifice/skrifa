@@ -2,10 +2,7 @@
 title: Skrifa KB
 site-title: Skrifa KB
 description: Skrifa Documentation
-baseurl: "/kb" # the subpath of your site, e.g. /blog/
-url: "http://skrifa.io" # the base hostname & protocol for your site
-twitter_username: humeansacrifice
-github_username:  humeansacrifice
+url: "http://kb.skrifa.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: redcarpet
@@ -14,6 +11,8 @@ redcarpet:
 
 highlighter: pygments
 
-#category bs
+# taxonomy stuff
+category-list: [Cats, Dogs, Getting Started, Fish, Marketing, Monkeys, Television]
+tag-list: [Technical Setup, Moss, Neil Young]
 
-categories: [dogs, cats, haints]
+exclude: ["README.md"]

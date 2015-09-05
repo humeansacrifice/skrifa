@@ -1,11 +1,11 @@
 ---
-page_title: Article 1
+page_title: Article 2
 layout: page
 user: Admin
 ed: Pro and Ultimate
 resource: true
-categories: [Cats, Dogs]
-summary: cats cars bats bars these are the things I like
+categories: [Fish]
+summary: This article explains how to deal with Fish. 
 tags: getting-started
 keywords: monkey, neil young
 ---

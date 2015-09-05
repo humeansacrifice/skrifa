@@ -18,5 +18,9 @@ $('#toc').on('click', 'a', function() {
 });
 </script>
 {% unless page.toc == false %}
+<div class="well-toc">
+<p>Contents</p>
 <div id="toc"></div>
+</div>
+
 {% endunless %}

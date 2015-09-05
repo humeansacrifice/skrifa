@@ -1,13 +1,13 @@
 ---
-page_title: Article 1
+page_title: Article 3
 layout: page
 user: Admin
 ed: Pro and Ultimate
 resource: true
-categories: [Cats, Dogs]
-summary: cats cars bats bars these are the things I like
+categories: [Marketing, Television]
+summary: This article explains how to deal with Marketing.
 tags: getting-started
-keywords: monkey, neil young
+keywords: marketers
 ---
 
 
