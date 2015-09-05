@@ -1,0 +1,10 @@
+<div id="article-list">
+<ul>
+  {% assign category_id = page.category_id %}
+  {% for page in site.pages %}
+    {% if page.categories contains category_id %}
+          <li class="no_bullets"><a href="{{ page.url }}">{{ page.page_title }} </a> : {{page.summary}}</li>
+        {% endif %}
+</ul>
+{% endfor %}
+</div>

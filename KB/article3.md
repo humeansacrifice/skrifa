@@ -3,7 +3,7 @@ page_title: Article 3
 layout: page
 user: Admin
 ed: Pro and Ultimate
-resource: true
+resource: true 
 categories: [Marketing, Television]
 summary: This article explains how to deal with Marketing.
 tags: getting-started
