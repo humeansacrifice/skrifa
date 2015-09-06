@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Articles by Category
+page_title: Articles by Category
 toc:
 overview: Here's a handy list of all articles in each KB Category
 ---

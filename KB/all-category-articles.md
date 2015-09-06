@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Category Articles
+page_title: Category Articles
 toc: false
 category_id: "Categories"
 is_category: true

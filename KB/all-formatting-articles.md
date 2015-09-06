@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Formatting Articles
+page_title: Formatting Articles
 toc: false
 category_id: "Formatting"
 is_category: true

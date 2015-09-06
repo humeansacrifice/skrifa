@@ -1,0 +1,21 @@
+---
+title: search
+search: exclude
+---
+[
+{% for page in site.pages %}
+{% unless page.search == "exclude" %}
+{
+"title": "{{ page.page_title | escape }}",
+"tags": "{{ page.tags }}",
+"categories": "{{ page.categories }}",
+"keywords": "{{page.keywords}}",
+"url": "{{ page.url | replace: '/','' }}",
+"overview": "{{page.overview}}",
+"body": "{{ page.content | strip_html | strip_newlines | replace: '\', '\\\\' | replace: '"', '\\"' }}"
+},
+{% endunless %}
+
+{% endfor %}
+null
+]

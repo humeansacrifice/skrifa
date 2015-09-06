@@ -1,9 +1,10 @@
 # Site settings
 title: Skrifa KB
-site-title: Skrifa KB
+site_title: Skrifa KB
 description: Skrifa Documentation
 url: "http://kb.skrifa.io" # the base hostname & protocol for your site
-baseurl: /kb
+github_username: humeansacrifice
+
 
 # Build settings
 markdown: redcarpet
