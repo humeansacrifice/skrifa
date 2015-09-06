@@ -1,0 +1,10 @@
+<p>{% assign series_pages = site.tags.series_sample %}
+    {% for p in pages %}
+    {% if p.series == "Sample series" %}
+    {% assign nextTopic = page.weight | plus: "1"  %}
+    {% if p.weight == nextTopic  %}
+    <a href="{{p.url | replace: '/',''}}"><button type="button" class="btn btn-success">Next: {{p.page_title}}</button></a>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+</p>

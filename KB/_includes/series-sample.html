@@ -1,0 +1,19 @@
+<div class="seriesContext">
+    <div class="btn-group">
+        <button type="button" data-toggle="dropdown" class="btn btn-success dropdown-toggle">Sample Series <span class="caret"></span></button>
+        <ol class="dropdown-menu">
+            {% assign pages = site.pages | sort:"weight"  %}
+            {% for p in pages %}
+            {% if p.series == "Sample series" %}
+            {% if p.url == page.url %}
+            <li class="active"> → {{p.weight}}. {{p.page_title}}</li>
+            {% else %}
+            <li>
+                <a href="{{p.url | replace: '/',''}}">{{p.weight}}. {{p.page_title}}</a>
+            </li>
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+        </ol>
+    </div>
+</div>
