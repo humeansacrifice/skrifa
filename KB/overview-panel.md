@@ -2,8 +2,8 @@
 page_title: Overview Panel
 layout: page
 last_updated: 9/6/2015
-user:
-ed:
+user: User Label
+ed: Edition Label
 resource: true
 categories: [Formatting]
 overview: This article covers how to use Overview Panels with this theme

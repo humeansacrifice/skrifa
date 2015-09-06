@@ -1,8 +1,8 @@
 ---
 page_title: Series Sample 2
 layout: page
-user: Admins
-ed:
+user: User Label
+ed: Edition Label
 resource: true
 categories: [Series]
 overview: Part 2 in a Sample Series

@@ -1,8 +1,8 @@
 ---
 page_title: Using Categories
 layout: page
-user:
-ed:
+user: User Label
+ed: Edition Label
 resource: true
 categories: [Categories]
 overview: This article covers how Categories are set up in this theme.

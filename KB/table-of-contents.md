@@ -1,8 +1,8 @@
 ---
 page_title: Table of Contents
 layout: page
-user:
-ed:
+user: User Label
+ed: Edition Label
 resource: true
 categories: [Formatting]
 overview: This article covers how to use the Table of Contents

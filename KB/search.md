@@ -1,8 +1,8 @@
 ---
 page_title: Search
 layout: page
-user:
-ed:
+user: User Label
+ed: Edition Label
 resource: true
 categories: [Search]
 overview: This article covers searching in this theme.
@@ -13,4 +13,4 @@ keywords:
 
 ##Getting Started with Search
 
-ehhhhhh.... (badpokerface). Search is hard to implement drunk. I haven't been able to get it to work yet. 
+ehhhhhh.... (badpokerface). Search is hard to implement drunk. I haven't been able to get it to work yet.

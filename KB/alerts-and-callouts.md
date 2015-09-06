@@ -1,13 +1,13 @@
 ---
 page_title: Alerts
 layout: page
-user: Admin
-ed: Pro and Ultimate
+user: User Label
+ed: Edition Label
 resource: true
 categories: [Formatting]
 overview: This article covers how to use alerts and callouts with this theme.
-tags: getting-started
-keywords: monkey, neil young
+tags:
+keywords: alerts, callouts
 ---
 {% include alerts_callouts.html %}
 

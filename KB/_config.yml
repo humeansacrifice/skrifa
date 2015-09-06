@@ -3,6 +3,7 @@ title: Skrifa KB
 site-title: Skrifa KB
 description: Skrifa Documentation
 url: "http://kb.skrifa.io" # the base hostname & protocol for your site
+baseurl: /kb
 
 # Build settings
 markdown: redcarpet
@@ -17,4 +18,4 @@ tag-list: [Technical Setup, Moss, Neil Young]
 
 
 
-exclude: ["README.md", "article_template.md"]
+exclude: ["README.md", "article_template.md", "LICENSE"]
