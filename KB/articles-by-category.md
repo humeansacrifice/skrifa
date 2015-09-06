@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Topics
+title: Articles by Category
 toc:
-summary: Here's a handy list of all articles in each KB Category
+overview: Here's a handy list of all articles in each KB Category
 ---
 
 
@@ -14,7 +14,7 @@ summary: Here's a handy list of all articles in each KB Category
     {% if page.resource == true %}
       {% for pc in page.categories %}
         {% if pc == cat %}
-          <li class="no_bullets"><a href="{{ page.url }}">{{ page.page_title }} </a> : {{page.summary}}</li>
+          <li class="no_bullets"><a href="{{ page.url }}">{{ page.page_title }} </a> : {{page.overview}}</li>
         {% endif %}  
       {% endfor %}
     {% endif %}

@@ -12,7 +12,9 @@ redcarpet:
 highlighter: pygments
 
 # taxonomy stuff
-category-list: [Cats, Dogs, Getting Started, Fish, Marketing, Monkeys, Television]
+category-list: [Formatting, Getting Started, Search, Categories]
 tag-list: [Technical Setup, Moss, Neil Young]
 
-exclude: ["README.md"]
+
+
+exclude: ["README.md", "article_template.md"]

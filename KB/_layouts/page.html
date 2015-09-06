@@ -2,16 +2,18 @@
 layout: default
 ---
 <div class="container">
+
 <h1>{{page.page_title}}</h1>
 
-<span class="label label-danger">{{page.user}}</span>
-<span class="label label-warning">{{page.ed}}</span>
+{% include labels.html %}
+
+
 <!--figure out the right way to do this, instead of cheating with a p-->
 <p></p>
 
-<!--summary panel-->
+<!--overview panel-->
 <div>
-{% include summary_panel.html %}
+{% include overview_panel.html %}
 {% include toc.html %}
 </div>
 
@@ -19,5 +21,4 @@ layout: default
 <div>
 {{content}}
 </div>
-
 </div>

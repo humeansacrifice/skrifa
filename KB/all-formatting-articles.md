@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Television Articles
+title: Formatting Articles
 toc: false
-category_id: "Television"
+category_id: "Formatting"
 is_category: true
 ---
 
-##All Television Articles
+##All Formatting Articles
 
 {% include category_logic.html %}

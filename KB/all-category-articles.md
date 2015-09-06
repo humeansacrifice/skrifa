@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Cat articles
+title: Category Articles
 toc: false
-category_id: "Cats"
+category_id: "Categories"
 is_category: true
 ---
 
-##All Cat Articles
+##All Category Articles
 
 {% include category_logic.html %}
