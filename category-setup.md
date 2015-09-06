@@ -22,7 +22,7 @@ keywords:
 
 ### articles-by-category.html
 
-This page generates a list of all [pages, listed by category](/articles-by-category.html). Keep in mind that the categories are listed in the same order they appear in the ```category-list``` array in your ```_config.yml``` file. If you want the categories to appear alphabetically, you'll need to arrange the values in the array alphabetically.
+This page generates a list of all [pages, listed by category]({{site.baseurl}}articles-by-category.html). Keep in mind that the categories are listed in the same order they appear in the ```category-list``` array in your ```_config.yml``` file. If you want the categories to appear alphabetically, you'll need to arrange the values in the array alphabetically.
 
 ###category-logic.html
 

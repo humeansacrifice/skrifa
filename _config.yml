@@ -4,6 +4,7 @@ site_title: Skrifa KB
 description: Skrifa Documentation
 url: "http://kb.skrifa.io" # the base hostname & protocol for your site
 github_username: humeansacrifice
+baseurl: /help/
 
 
 # Build settings
