@@ -4,6 +4,7 @@ layout: page
 user: User Label
 ed: Edition Label
 resource: true
+cat_url: all-category-articles.html
 categories: [Categories]
 overview: This article covers how Categories are set up in this theme.
 tags: getting-started

@@ -6,6 +6,7 @@ user: User Label
 ed: Edition Label
 resource: true
 categories: [Formatting]
+cat_url: all-formatting-articles.html
 overview: This article covers how to use Overview Panels with this theme
 tags:
 keywords:

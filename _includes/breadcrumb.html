@@ -1,0 +1,10 @@
+{% assign active_page = page.page_title %}
+{% assign cat_link = page.categories %}
+{% assign cat_url = page.cat_url %}
+
+
+<ul class="breadcrumb">
+  <li><a href="index.html">Knowledge Base Home</a></li>
+  <li><a href={{cat_url}}>{{cat_link}}</a></li>
+  <li class="active">{{active_page}}</li>
+</ul>

@@ -5,6 +5,7 @@ user: User Label
 ed: Edition Label
 resource: true
 categories: [Series]
+cat_url: all-series-articles.html
 overview: Part 1 of in a Sample Series
 tags:
 keywords:

@@ -5,6 +5,7 @@ user: User Label
 ed: Edition Label
 resource: true
 categories: [Series]
+cat_url: all-series-articles.html
 overview: This article covers how Series are set up in this theme.
 tags:
 keywords: series, Neil Young

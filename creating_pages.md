@@ -6,6 +6,7 @@ user: User Label
 ed: Edition Label
 resource: true
 categories: [Writing]
+cat_url: all-writing-articles.html
 overview: This article covers how to create new pages and articles with this theme.
 tags:
 keywords: wrting new pages, new articles
@@ -38,4 +39,4 @@ Here are all the current variables defined for pages in this theme and what they
 - **keywords:** Search keywords! Search is set up to search through these.
 - **toc:** If this is left blank, a table of contents will be generated for the page. To suppress the table of contents, define this as ```false```. See [Table of Contents](table-of-contents.html) for more.
 
-**Note:** There are a few other variables used on certain kinds of pages (like All "X" Articles pages ). Those are discussed elsewhere. 
+**Note:** There are a few other variables used on certain kinds of pages (like All "X" Articles pages ). Those are discussed elsewhere.

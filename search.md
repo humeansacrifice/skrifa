@@ -5,6 +5,7 @@ user: User Label
 ed: Edition Label
 resource: true
 categories: [Search]
+cat_url: all-search-articles.html
 overview: This article covers searching in this theme.
 tags:
 keywords:
