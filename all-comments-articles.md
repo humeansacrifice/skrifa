@@ -1,6 +1,6 @@
 ---
 layout: cat_page
-page_title: All Comments Articles
+page_title: Comments Articles
 toc: false
 category_id: "Comments"
 iscategory: true

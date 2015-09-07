@@ -1,6 +1,6 @@
 ---
 layout: cat_page
-page_title: All Navigation Articles
+page_title: Navigation Articles
 toc: false
 category_id: "Navigation"
 iscategory: true

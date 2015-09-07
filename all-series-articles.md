@@ -1,6 +1,6 @@
 ---
 layout: cat_page
-page_title: All Series Articles
+page_title: Series Articles
 toc: false
 category_id: "Series"
 iscategory: true

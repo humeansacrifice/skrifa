@@ -1,6 +1,6 @@
 ---
 layout: cat_page
-page_title: All Search Articles
+page_title: Search Articles
 toc: false
 category_id: "Search"
 iscategory: true

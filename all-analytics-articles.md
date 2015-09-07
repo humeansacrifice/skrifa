@@ -1,6 +1,6 @@
 ---
 layout: cat_page
-page_title: All Analytics Articles
+page_title: Analytics Articles
 toc: false
 category_id: "Analytics"
 iscategory: true
