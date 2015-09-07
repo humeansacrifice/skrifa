@@ -5,6 +5,7 @@ user: User Label
 ed: Edition Label
 resource: true
 categories: [Formatting]
+cat_url: all-formatting-articles.html
 overview: This article covers how to use alerts and callouts with this theme.
 tags:
 keywords: alerts, callouts
@@ -41,4 +42,4 @@ Alerts included with this theme are named as follows:
 {{warning}}This is a warning box.{{end}}</div>
 {{danger}}This is a danger box. Scary{{end}}</div>
 {{success}}This is a success box. Hooray{{end}}</div>
-{{info}}This is an info box. FYI{{end}}<div>
+{{info}}This is an info box. FYI{{end}}</div>
