@@ -1,8 +1,9 @@
 ---
 layout: page
-page_title: Articles by Category
+page_title: All Articles by Category
 toc:
 overview: Here's a handy list of all articles in each KB Category
+iscategory: true
 ---
 
 

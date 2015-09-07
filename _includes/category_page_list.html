@@ -1,8 +1,10 @@
 
-<ul>
-  {% for pages in site.pages %}
-    {% if page.is_category == true %}
-          <li class="no_bullets"><a href="{{ page.url }}">{{ page.page_title }} </a> </li>
-        {% endif %}
-</ul>
-{% endfor %}
+<div>
+  {% for page in site.pages %}
+  <ul>
+      {% if page.iscategory == true %}
+          <li class="no_bullets"><a href="{{ page.url }}">{{ page.page_title }} </a></li>
+      {% endif %}
+  </ul>
+  {% endfor %}
+</div>

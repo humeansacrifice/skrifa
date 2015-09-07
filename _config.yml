@@ -14,7 +14,7 @@ redcarpet:
 highlighter: pygments
 
 # taxonomy stuff
-category-list: [Formatting, Series, Getting Started, Search, Categories, Writing]
+category-list: [Categories, Formatting, Getting Started, Search, Series, Writing]
 tag-list: [Technical Setup, Moss, Neil Young]
 
 

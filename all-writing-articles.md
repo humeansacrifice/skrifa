@@ -1,10 +1,9 @@
 ---
 layout: page
-page_title: All Formatting Articles
+page_title: All Writing Articles
 toc: false
-category_id: "Formatting"
+category_id: "Writing"
 iscategory: true
 ---
-
 
 {% include category_logic.html %}

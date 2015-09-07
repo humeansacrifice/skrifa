@@ -1,11 +1,10 @@
 ---
 layout: page
-page_title: Category Articles
+page_title: All Category Articles
 toc: false
 category_id: "Categories"
-is_category: true
+iscategory: true
 ---
 
-##All Category Articles
 
 {% include category_logic.html %}

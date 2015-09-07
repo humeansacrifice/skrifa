@@ -1,8 +1,8 @@
 ---
 layout: page
-page_title: All Formatting Articles
+page_title: All Series Articles
 toc: false
-category_id: "Formatting"
+category_id: "Series"
 iscategory: true
 ---
 
