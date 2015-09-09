@@ -305,6 +305,13 @@ th {
   .table-bordered td {
     border: 1px solid #ddd !important;
   }
+.site.footer, .site.header{
+  display: hidden;
+}
+#search-demo-container {
+  display: hidden;
+
+}
 }
 @font-face {
   font-family: 'Glyphicons Halflings';

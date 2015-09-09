@@ -43,3 +43,4 @@ Alerts included with this theme are named as follows:
 {{danger}}This is a danger box. Scary{{end}}</div>
 {{success}}This is a success box. Hooray{{end}}</div>
 {{info}}This is an info box. FYI{{end}}</div>
+<div>Have fun!</div>
