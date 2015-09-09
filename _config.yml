@@ -16,7 +16,7 @@ highlighter: pygments
 
 # taxonomy stuff
 category-list: [Analytics, Categories, Comments, Formatting, Navigation, Search, Series, Writing]
-tag-list: [Technical Setup, Moss, Neil Young]
+topic-list: [Technical Setup, Moss, Neil Young]
 
 
 

@@ -9,6 +9,7 @@ search: exclude
 "title": "{{ page.page_title | escape }}",
 "tags": "{{ page.tags }}",
 "categories": "{{ page.categories }}",
+"topics": "{{ page.topics }}",
 "keywords": "{{page.keywords}}",
 "url": "{{ page.url | replace: '/','' }}",
 "overview": "{{page.overview}}",
