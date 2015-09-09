@@ -1,0 +1,15 @@
+{% for top in site.topic-list %}
+### {{ top }}
+
+<ul>
+  {% for page in site.pages %}
+    {% if page.resource == true %}
+      {% for pc in page.topics %}
+        {% if pc == top %}
+          <li class="no_bullets"><a href="{{ page.url }}">{{ page.page_title }} </a> : {{page.overview}}</li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+</ul>
+{% endfor %}
