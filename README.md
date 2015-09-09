@@ -28,7 +28,7 @@ There are probably a million ways to deploy a Jekyll site, so you're on your own
 - Write Tag logic and display.
 - Make search work better and not bork out when it's on article pages.
 - Look in to ways to streamline breadcrumb nav. It's a bit cumbersome to set up.
-- Add print stylesheets for printable articles.
+- ~~Add print stylesheets for printable articles.~~
 - ~~Add disqus feature.~~
 - ~~Generate and add linked "Category List" to index.~~~
 - ~~Figure out Breadcrumb nav. It'll be cool.~~
