@@ -1,0 +1,23 @@
+{% for cat in site.category-list %}
+<div>
+<h2 id="cat">{{ cat }}</h2>
+  {% for page in site.pages %}
+    {% for pc in page.categories %}
+      {% if pc == cat %}
+        {% for top in page.topics %}
+          {% if page.topics != null %}
+          {% assign page.topics = top %}
+          <ul>
+                <h3 id="cat">{{ top }}</h3>
+                <ul>
+                  {% for top in page.topics %}
+                      <li class="no_bullets"><a href={{ page.url }}>{{ page.page_title }}</a>: {{ page.overview }}</li>
+                  {% endfor %} </ul>
+          {% endif %}
+        </ul>
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</div>
+{% endfor %}

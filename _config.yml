@@ -19,5 +19,4 @@ category-list: [Analytics, Categories, Comments, Formatting, Navigation, Search,
 topic-list: [Technical Setup, Moss, Neil Young]
 
 
-
 exclude: ["README.md", "article_template.md", "LICENSE"]
