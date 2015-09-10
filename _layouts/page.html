@@ -19,10 +19,14 @@ layout: default
 
 <!--overview panel-->
 <div>
-{% include overview_panel.html %}
-{% include toc.html %}
+{% if page.toc == false %}
+    {% include overview_panel.html %}
+    {% else %}
+      <div class="row"><div class="col-md-6">{% include toc.html %}</div>
+<div class="col-md-6">{% include overview_panel.html %}</div>
 </div>
-
+{% endif %}
+</div>
 <div>
 {{content}}
 
