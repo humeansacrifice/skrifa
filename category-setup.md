@@ -4,8 +4,10 @@ layout: page
 user: User Label
 ed: Edition Label
 resource: true
-cat_url: all-category-articles.html
-categories: [Categories]
+cat_url: all-technical-setup-articles.html
+top_url: all-topic-categories-articles.html
+categories: [Technical Setup]
+topics: [Categories]
 overview: This article covers how Categories are set up in this theme.
 tags: getting-started
 keywords:

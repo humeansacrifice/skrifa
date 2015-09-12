@@ -5,7 +5,9 @@ user: User Label
 ed: Edition Label
 resource: true
 categories: [Formatting]
+topics: [Visual Elements]
 cat_url: all-formatting-articles.html
+top_url: all-topic-visual-elements-articles.html
 overview: This article covers how to use Labels with this theme
 tags:
 keywords:

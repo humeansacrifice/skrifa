@@ -5,8 +5,8 @@ user: User Label
 ed: Edition Label
 resource: true
 last_updated: September 7, 2015
-categories: [Analytics]
-cat_url: all-analytics-articles.html
+categories: [Technical Setup]
+cat_url: all-technical-setup-articles.html
 overview: This article covers how to use Google Analytics and other tracking scripts with this theme.
 tags:
 keywords: Pardot, tracking code, GA, tracking scripts

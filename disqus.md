@@ -7,6 +7,8 @@ resource: true
 cat_url: all-comments-articles.html
 last_updated: September 7, 2015
 categories: [Comments]
+topics:
+top_url:
 overview: This article covers how to use Disqus for comments with this theme.
 tags:
 keywords: disqus

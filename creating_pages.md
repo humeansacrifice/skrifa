@@ -6,7 +6,9 @@ user: User Label
 ed: Edition Label
 resource: true
 categories: [Writing]
+topics:
 cat_url: all-writing-articles.html
+top_url:
 overview: This article covers how to create new pages and articles with this theme.
 tags:
 keywords: wrting new pages, new articles

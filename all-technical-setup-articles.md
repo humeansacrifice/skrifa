@@ -1,8 +1,8 @@
 ---
 layout: cat_page
-page_title: Analytics Articles
+page_title: Technical Setup Articles
 toc: false
-category_id: "Analytics"
+category_id: "Technical Setup"
 iscategory: true
 disqus: false
 ---

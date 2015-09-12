@@ -15,8 +15,8 @@ redcarpet:
 highlighter: pygments
 
 # taxonomy stuff
-category-list: [Analytics, Categories, Comments, Formatting, Navigation, Search, Series, Writing]
-topic-list: [Technical Setup, Moss, Neil Young]
+category-list: [Comments, Formatting, Navigation, Search, Technical Setup]
+topic-list: [Analtytics, Categories, Neil Young, Series, Visual Elements]
 
 
 exclude: ["README.md", "article_template.md", "LICENSE"]

@@ -1,14 +1,10 @@
 {% assign active_page = page.page_title %}
-{% assign cat_link = page.categories %}
+{% assign cat_link = page.cat_parent %}
 {% assign cat_url = page.cat_url %}
-{% assign top_link = page.topics %}
-{% assign top_url = page.top_url %}
 
 
 <ul class="breadcrumb">
   <li><a href="index.html">Knowledge Base Home</a></li>
   <li><a href={{cat_url}}>{{cat_link}}</a></li>
-  {% if page.topics != null %}
-  <li><a href={{top_url}}>{{top_link}}</a></li>{% endif %}
   <li class="active">{{active_page}}</li>
 </ul>

@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<div class="container">
+
+  {% include search_script.html %}
+
+<h1>{{page.page_title}}</h1>
+
+{% include breadcrumb_top_page.html %}
+{% include labels.html %}
+
+
+<!--figure out the right way to do this, instead of cheating with a p-->
+<p></p>
+
+<!--overview panel-->
+<div>
+{% include overview_panel.html %}
+{% include toc.html %}
+</div>
+
+
+<div>
+{{content}}
+</div>
+
+</div>
