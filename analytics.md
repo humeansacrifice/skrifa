@@ -1,8 +1,8 @@
 ---
 page_title: Using Analytics and Tracking Scripts
 layout: page
-user: User Label
-ed: Edition Label
+user:
+ed: 
 resource: true
 last_updated: September 7, 2015
 categories: [Technical Setup]
